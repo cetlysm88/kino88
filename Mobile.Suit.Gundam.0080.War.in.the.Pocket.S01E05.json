@@ -1,0 +1,18 @@
+{
+  "title": "Mtest\"",
+  "duration": 234,
+  "sources": [
+    {
+      "url": "https://i.desu.si/aQbhQOCs.mp4",
+      "contentType": "video/mp4",
+      "quality": 1080
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://i.desu.si/dboUSfyv.vtt",
+      "contentType": "text/vtt",
+      "name": "English subtitles"
+    }
+  ]
+}
